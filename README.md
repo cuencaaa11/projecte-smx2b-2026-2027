@@ -221,7 +221,7 @@ Aquí adjuntaré un parell d'esquemes del meu projecte.
 <img src="img/imagen(1).png" alt="Esquema del projecte PackGo" width="300"> <img src="img/imagen.png" alt="Segon esquema del projecte PackGo" width="300">
 
 
-### [RBridge](https://github.com/Afix-MAB/RBridge.git)
+### [RBridge - Portal d’accés remot](https://github.com/Afix-MAB/RBridge.git)
 ![Linux](https://img.shields.io/badge/SO-Linux-FCC624?logo=linux&logoColor=black)
 ![WireGuard](https://img.shields.io/badge/VPN-WireGuard-88171A?logo=wireguard&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-Servidor-00599C?logo=linux&logoColor=white)
@@ -308,7 +308,7 @@ Primer de tot, en el càs del prototip, l'empresa encarregada d'enviar el paquet
 5. metodés de transport especialitzats pel transport de productes amb aquesta idea
 6. incorporar connexió de xarxa móbil per veure en temps real els paquets en llocs locals
 
-### WearSafe: descripció del projecte
+### [WearSafe](https://github.com/cuencaaa11/Projecte-Roba.git)
 1. Context
 
 On s’emmarca. WearSafe és una start-up petita, fundada fa poc, que encara no té cap sistema informàtic propi. Només té una idea clara i un equip petit. Nosaltres fem de l’equip tècnic que li dissenya i li posa en marxa tota la infraestructura.
